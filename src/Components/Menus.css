@@ -1,0 +1,11 @@
+.menus{
+    display: flex;
+}
+.items{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 15px;
+}
+.mapping{
+    margin-left: 40px;
+}

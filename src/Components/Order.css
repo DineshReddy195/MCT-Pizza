@@ -1,0 +1,82 @@
+.fill{
+    display: flex;
+}
+.order{
+    display: flex;
+    background-image: url('https://media.istockphoto.com/id/1301482898/photo/pepperoni-pizza-on-wooden-table.jpg?s=612x612&w=0&k=20&c=ByB-bMpvROFYPZWdrWtsMvC9tLtXUKVh2GC-9AMJzEg=');
+    width:100vw ;
+    height: 39rem;
+    background-repeat: no-repeat;
+    background-size: 100vw 40rem;
+}
+.side-nav{
+    text-align: center;
+}
+.image{
+    z-index: -1;
+    margin-left: 30px;
+}
+.form{
+    position: relative;
+    left: 30px;
+    margin: 20px;
+}
+.card{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+.form-header{
+    width: 630px;
+    background-color: burlywood;
+    text-align: center;
+    margin-bottom: 0%;
+}
+.inputs{
+    background-color: white;
+    opacity: 0.7;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    width: 630px;
+    height: 420px;
+    color:black;
+    margin: 20px;
+    padding: 30px;
+}
+.mail-id{
+    width: 240px;
+    height: 30px;
+    background-color: white;
+    opacity: 1;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+}
+.number{
+    height: 30px;
+    width: 100px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+}
+.slices{
+    width: 210px;
+    height: 30px;
+    background-color: white;
+    opacity: 1;
+    border: 1px solid black;
+    outline: none; 
+    border-radius: 5px;
+}
+.order-now{
+    margin-top: 1rem;
+    cursor: pointer;
+    width: 40rem;
+    height: 40px;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+}

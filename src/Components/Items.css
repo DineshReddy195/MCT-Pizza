@@ -1,0 +1,43 @@
+.pizza-list{
+    display: flex;
+}
+.map-pizzas{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap: 20px;
+}
+.pizza-image{
+    border-radius: 50%;
+}
+.picture{
+    position: absolute;
+}
+.main{
+    box-sizing: border-box;
+    margin-left: 57px;
+}
+.buttons{
+    display: flex;
+    z-index: 2;
+    display: none;
+}
+.cart{
+    cursor: pointer;
+    background-color: brown;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 40px;
+}
+.view{
+    cursor: pointer;
+    background-color: grey;
+    color: black;
+    border: none;
+    width: 100px;
+    height: 40px;
+}
+.main:hover  .buttons{
+    display: block;
+}

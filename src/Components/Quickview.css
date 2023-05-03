@@ -1,0 +1,14 @@
+.interface{
+    display: flex;
+    width: 1000px;
+    height: 400px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px black;
+}
+.left-panel{
+    width: 40%;
+}
+.right-panel{
+    width: 60%;
+    margin-left: 20px;
+}

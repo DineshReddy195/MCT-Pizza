@@ -1,0 +1,15 @@
+.side-menu{
+    display: flex;
+}
+.success{
+    text-align: center;
+    margin:50px auto
+}
+.return-home{
+    cursor: pointer;
+    background-color: grey;
+    color: black;
+    border: none;
+    width: 100px;
+    height: 40px;
+}

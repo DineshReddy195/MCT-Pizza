@@ -1,0 +1,46 @@
+@media screen and (min-width: 480px) {
+    #leftsidebar {width: 200px; float: left;}
+    #main {margin-left: 216px;}
+.home{
+    display: flex;
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/62/73/88/1000_F_262738836_IsEBoixgF0jJq3ep3nnPQG6E1OAxan5i.jpg');
+    width:100vw ;
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-size: 100vw 40rem;
+    
+}
+.menu-list{
+    display: flex;
+}
+.landing{
+    margin-left: 30px
+}
+.pic{
+    z-index: -1;
+}
+.text{
+    color:white;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+.fa-solid{
+    margin-left: 50rem;
+    margin-top: 12rem;
+cursor: pointer;
+
+}
+.mail{
+    width: 240px;
+    height: 30px;
+}
+.subscribe{
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+}
+}
