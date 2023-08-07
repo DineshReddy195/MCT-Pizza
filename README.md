@@ -62,5 +62,4 @@ So here I have I have faced another difficulty in this quick view like convertin
 Live Link: https://cerulean-fairy-dc088f.netlify.app/
 
 Refer below word document for reference and screenshots.
-Pizza Delivery Website.docx  
-https://github.com/DineshReddy195/MCT-Pizza/files/12275085/Pizza.Delivery.Website.docx
+[Pizza Delivery Website.docx](https://github.com/DineshReddy195/MCT-Pizza/files/12275085/Pizza.Delivery.Website.docx)
