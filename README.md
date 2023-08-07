@@ -24,8 +24,7 @@ In this project I have used a tech stack called react router dump and rapid API.
   So I have given catch method here and I have console that.  So this list I have given it in use effect.  So I have called that list in use effect.  After that we will come to these steps later.  I have taken a due and I have given now,  now bar here.  After that I have taken another due in that I have declared a condition like if products length is greater than zero, then it should have all the products like I have done mapping of the products. 
  So it should map the products and then I image all the H3 and that title description price and buttons all those should be there.  If not,  if not it should print if the products item is not greater than zero,  it should print no items to display.  
 
-So here if we see this new page, we can see that it is given like items.id[Pizza Delivery Website.docx](https://github.com/DineshReddy195/MCT-Pizza/files/12275085/Pizza.Delivery.Website.docx)
-.  By this item this is called as path parameter.  So here this ID we can do anything which is unique in the API.  So I have checked the API.  It is ID is unique to every object.  So that's why I have given ID as the path parameter here.  And if we see here,
+So here if we see this new page, we can see that it is given like items.id().By this item this is called as path parameter.  So here this ID we can do anything which is unique in the API.  So I have checked the API.  It is ID is unique to every object.  So that's why I have given ID as the path parameter here.  And if we see here,
 
 I have given on click to this details and cart.  So here I have used another hook called use navigate hook.  Here we see here I have used another hook called use navigate.  This use navigate will return a function called navigate.  We have this one we have to do only name called navigate.  We should not do any other name. If we give any other name it will not work.  So here I have given const cart.
 
@@ -61,3 +60,7 @@ So here I have I have faced another difficulty in this quick view like convertin
 
 
 Live Link: https://cerulean-fairy-dc088f.netlify.app/
+
+Refer below word document for reference and screenshots.
+Pizza Delivery Website.docx  
+https://github.com/DineshReddy195/MCT-Pizza/files/12275085/Pizza.Delivery.Website.docx
